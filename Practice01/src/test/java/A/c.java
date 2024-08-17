@@ -6,6 +6,10 @@ public class c {
 		// TODO Auto-generated method stub
 		System.out.println("chetan");
 
+		System.out.println("Do hard work man");
+
+		
+
 	}
 
 }
